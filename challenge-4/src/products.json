@@ -1,0 +1,24 @@
+[
+  {
+    "title": "producto 1",
+    "description": "desc",
+    "price": "20000",
+    "code": "1122311231445",
+    "stock": "3",
+    "status": "true",
+    "category": "pantalones",
+    "thumbnail": "whatsapp-image-2024-04-11-at-15-25-01-3-caa285e08b5985315417138816657199-640-0.jpeg",
+    "id": 1
+  },
+  {
+    "title": "producto 2",
+    "description": "desc",
+    "price": "30000",
+    "code": "1122",
+    "stock": "3",
+    "status": "true",
+    "category": "pantalones",
+    "thumbnail": "whatsapp-image-2024-04-11-at-15-25-01-3-caa285e08b5985315417138816657199-640-0.jpeg",
+    "id": 2
+  }
+]
